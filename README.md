@@ -1,4 +1,4 @@
-# Files1
-## hier info how we use this repo
-### add new branch fix
-#### add new branch fix2
+# fetch
+## git fetch стягивает все изменения (коммиты) из удаленной ветки, но не сливает их сразу в ветку
+# pull 
+## git pull стягивает все изменения (коммиты) сразу в ветку
